@@ -53,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/mmohamedfahim2214-star/java/tree/master/1232-check-if-it-is-a-straight-line) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/mmohamedfahim2214-star/java/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/mmohamedfahim2214-star/java/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/mmohamedfahim2214-star/java/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->

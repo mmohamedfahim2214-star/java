@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mmohamedfahim2214-star/java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/mmohamedfahim2214-star/java/tree/master/0014-longest-common-prefix) |
+| [0705-design-hashset](https://github.com/mmohamedfahim2214-star/java/tree/master/0705-design-hashset) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/mmohamedfahim2214-star/java/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1395-count-number-of-teams](https://github.com/mmohamedfahim2214-star/java/tree/master/1395-count-number-of-teams) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mmohamedfahim2214-star/java/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/mmohamedfahim2214-star/java/tree/master/0705-design-hashset) |
 | [1603-design-parking-system](https://github.com/mmohamedfahim2214-star/java/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -65,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/mmohamedfahim2214-star/java/tree/master/1603-design-parking-system) |
+## Hash Table
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/mmohamedfahim2214-star/java/tree/master/0705-design-hashset) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/mmohamedfahim2214-star/java/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/mmohamedfahim2214-star/java/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->

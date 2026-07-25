@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mmohamedfahim2214-star/java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/mmohamedfahim2214-star/java/tree/master/0014-longest-common-prefix) |
+| [1395-count-number-of-teams](https://github.com/mmohamedfahim2214-star/java/tree/master/1395-count-number-of-teams) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mmohamedfahim2214-star/java/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
@@ -34,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mmohamedfahim2214-star/java/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/mmohamedfahim2214-star/java/tree/master/1395-count-number-of-teams) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/mmohamedfahim2214-star/java/tree/master/1395-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/mmohamedfahim2214-star/java/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
